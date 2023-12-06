@@ -1,0 +1,19 @@
+{
+    "name": "apple2/mvc",
+    "description": "this is mvc framework",
+    "type": "l",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Apple2\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuanlucky",
+            "email": "zeyuanlucky@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
